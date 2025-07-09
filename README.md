@@ -17,8 +17,7 @@ A lightweight AI Agent that simulates human-like decision-making using a three-s
 
 ## 📂 Project Structure
 
-```
-
+```bash
 ai-agent-workshop/
 ├── models/                        # Place your GGUF model file here
 │   └── mistral-7b-instruct-v0.1.Q5_K_M.gguf
@@ -27,7 +26,6 @@ ai-agent-workshop/
 ├── frontend/
 │   └── app.py                    # Streamlit UI
 └── README.md
-
 ````
 
 ---
